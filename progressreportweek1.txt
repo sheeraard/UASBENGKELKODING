@@ -1,0 +1,5 @@
+Progress December 8th 2025:
+
+1. Reading and understanding the dataset 
+2. EDA 
+3. Direct modeling 
