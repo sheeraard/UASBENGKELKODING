@@ -1,0 +1,5 @@
+Progress December 18th 2025:
+
+1. Preprocessing and pipelines 
+2. Hyperparameter tuning
+3. Model selection 
